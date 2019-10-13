@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Mencoba remote dari local ke github</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus recusandae eum commodi alias accusamus rerum tenetur nemo beatae quam ea sit adipisci laboriosam, totam iste nobis? Quas doloremque magni officiis?</p>
 </body>
 </html>
